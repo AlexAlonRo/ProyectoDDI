@@ -64,4 +64,5 @@ y control del cuidado del portador.
 
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+<img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/89074060/78244930-364e-462c-b222-e3e46d67b43e" width="300" height="200"/>
+
