@@ -1,12 +1,10 @@
 # BlindSpot
 ## Objetivo del Proyecto
-Diseñar un dispositivo que permita la deteccion de la temperatura corporal, mostrando a su vez la presion arterial y
-el nivel de oxigenacion del apotador, desplegando en una pantalla inteligente los datos y alertas para el monitoreo
-y control del cuidado del portador.
+La gorra con sus sensores y funcionalidades proporcionaría a los invidentes herramientas adicionales para mejorar su seguridad, autonomía y calidad de vida. Con las alarmas, la localización y otras características, la gorra les ayudaría a evitar obstáculos, mantenerse informados sobre su entorno y tomar decisiones más informadas en su vida diaria. Además, la aplicación asociada permitiría una mayor interacción y personalización de la experiencia, brindando a los usuarios un mayor control sobre el uso y las preferencias de la gorra. En resumen, el beneficiario clave de este proyecto serían las personas invidentes, quienes encontrarían en esta gorra un apoyo valioso en su vida cotidiana.
+El objetivo es utilizar la tecnología de la gorra y la aplicación asociada para brindar a las personas invidentes herramientas que les ayuden a moverse de manera más segura y confiable en su entorno, brindándoles mayor independencia y calidad de vida.
 
 ## Benficiario
-- El beneficiario principal de este proyecto sería la comunidad de personas invidentes. La gorra con sus sensores y funcionalidades proporcionaría a los invidentes herramientas adicionales para mejorar su seguridad, autonomía y calidad de vida. Con las alarmas, la localización y otras características, la gorra les ayudaría a evitar obstáculos, mantenerse informados sobre su entorno y tomar decisiones más informadas en su vida diaria. Además, la aplicación asociada permitiría una mayor interacción y personalización de la experiencia, brindando a los usuarios un mayor control sobre el uso y las preferencias de la gorra. En resumen, el beneficiario clave de este proyecto serían las personas invidentes, quienes encontrarían en esta gorra un apoyo valioso en su vida cotidiana
-
+- El beneficiario principal de este proyecto sería la comunidad de personas invidentes. 
 ## Integrantes del Proyecto
 - Alexander Alonso Rodriguez
 - Andres Arredondo Escalante
