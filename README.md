@@ -25,7 +25,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
+|   1| Node-Red |   3.0.2 |Software Libre |
 |    |          |         |      |
 |    |          |         |      |
 
