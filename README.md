@@ -8,11 +8,11 @@ y control del cuidado del portador.
 - Empleado de una empresa, Docente de otra institucion.
 
 ## Integrantes del Proyecto
-- Alexander
-- Andres
-- Manuel
-- Jonathan
-- Samuel
+- Alexander Alonso Rodriguez
+- Andres Arredondo Escalante
+- Victor Manuel Arredondo Morales
+- Jonathan Raciel Medina Rivera
+- Samuel Palomino Cruz
 
 ## Materiales a utlizar 
 |ID|Nombre|Descripcion|Imagen|Costo Unitario|Cantidad
