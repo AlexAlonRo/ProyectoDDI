@@ -55,3 +55,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 ## Prototipo en dibujo
 <img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/89074060/78244930-364e-462c-b222-e3e46d67b43e" width="300" height="200"/>
 
+## Placa PCB
+
+## Prototipo en 3D
+
