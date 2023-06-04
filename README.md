@@ -26,7 +26,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 |   1| Node-Red |   3.0.2 |Software Libre |
-|   2| Raspberry-Pi |  Raspberry Pi 4 | Pequeño computador que correo un sistema operativo linux|
+|   2| Raspberry-Pi |  Raspberry Pi 4 | Pequeño computador que corre un sistema operativo linux|
 |   3| Fritzing| 0.9.9 | Programa de automatización de diseño electrónico libre|
 
 ## Tabla de historias de usuario
