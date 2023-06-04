@@ -1,4 +1,4 @@
-# ProyectoDDI
+# BlindSpot
 ## Objetivo del Proyecto
 Diseñar un dispositivo que permita la deteccion de la temperatura corporal, mostrando a su vez la presion arterial y
 el nivel de oxigenacion del apotador, desplegando en una pantalla inteligente los datos y alertas para el monitoreo
