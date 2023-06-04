@@ -5,7 +5,7 @@ el nivel de oxigenacion del apotador, desplegando en una pantalla inteligente lo
 y control del cuidado del portador.
 
 ## Benficiario
-- Empleado de una empresa, Docente de otra institucion.
+- El beneficiario principal de este proyecto sería la comunidad de personas invidentes. La gorra con sus sensores y funcionalidades proporcionaría a los invidentes herramientas adicionales para mejorar su seguridad, autonomía y calidad de vida. Con las alarmas, la localización y otras características, la gorra les ayudaría a evitar obstáculos, mantenerse informados sobre su entorno y tomar decisiones más informadas en su vida diaria. Además, la aplicación asociada permitiría una mayor interacción y personalización de la experiencia, brindando a los usuarios un mayor control sobre el uso y las preferencias de la gorra. En resumen, el beneficiario clave de este proyecto serían las personas invidentes, quienes encontrarían en esta gorra un apoyo valioso en su vida cotidiana
 
 ## Integrantes del Proyecto
 - Alexander Alonso Rodriguez
