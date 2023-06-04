@@ -60,4 +60,9 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 
 
 ## Prototipo en 3D
+### Enlace Tinkercad
+https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=QkGc5UIvuHH8nqbjJAFoY8htMV52TlNGm9aqxtM-Xoo
+
+### Imagen del prototipo 3D
+<img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/48026299/fc6d6237-2116-4e25-a74a-f906672e2019" width="800" height="400"/>
 
