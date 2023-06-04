@@ -17,7 +17,7 @@ y control del cuidado del portador.
 ## Materiales a utlizar 
 |ID|Nombre|Descripcion|Imagen|Costo Unitario|Cantidad
 |---|---|---|---|---|---|
-|1|ESP32|Descripcion|<img src= "" width="50px"/>|---|---|
+|1|ESP32|La ESP32 actuaría como el cerebro de la gorra inteligente, gestionando la conectividad, procesando los datos de los sensores y controlando la interacción con otros dispositivos para brindar una experiencia adaptada a las necesidades de las personas sordas.|<img src= "https://m.media-amazon.com/images/I/61eyPE6adjL.jpg" width="50px"/>|$300.00|1|
 |---|---|---|---|---|---|
 
 ## Tabla de Software utilizado
