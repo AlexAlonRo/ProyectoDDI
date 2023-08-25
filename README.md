@@ -25,30 +25,33 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 |7|RaspberryPi|Complementa la funcionalidad de la ESP32 al ofrecer un mayor poder de procesamiento, conectividad y capacidades de interfaz de usuario en el proyecto de una gorra inteligente para personas sordas. Su versatilidad y capacidades ampliadas permiten realizar tareas más complejas y aprovechar servicios en línea para mejorar la experiencia y funcionalidad del dispositivo.|<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNsrkqdk7i9F5jgBcOOqvA0FBuWZd5PpXhN4Ryk4J5MrlvST15DCTHT46_4W_OPZrnZEw&usqp=CAU" width="500px"/>|$3000.00|1|
 
 ## Tabla de Software utilizado
-| Id | Software | Version | Tipo |
+| ID  | Software               | Versión | Tipo                                                 |
 |----|----------|---------|------|
-|   1| Node-Red |   3.0.2 |Software Libre |
-|   2| Raspberry-Pi |  Raspberry Pi 4 | Pequeño computador que corre un sistema operativo linux|
-|   3| Fritzing| 0.9.9 | Programa de automatización de diseño electrónico libre|
+| 01  | Fritzing               | 0.9.3   | Diseño de circuitos (licencia libre)                |
+| 02  | Tinkerd Card           | N/A     | Diseño 3D, electrónica y codificación (licencia libre) |
+| 03  | Micro Python           | 3.11.3  | Lenguaje de programación (licencia libre)          |
+| 04  | Github                 | N/A     | Plataforma de alojamiento (licencia libre)          |
+| 05  | PySerial               | 3.4     | Librería para el sensor de pulso cardíaco (licencia libre) |
+| 06  | Adafruit CircuitPython | 4.0     | Librería para el sensor de temperatura y humedad del cuerpo humano |
+| 07  | RPi.GPIO               | 0022    | Librería para sensor ultrasónico (licencia libre)    |
+| 08  | VL53L0X                | 1.0.4   | Librería python para el manejo del sensor láser para distancia VL53L0X |
+| 09  | mpu6050                | 1.0.1   | Librería python para el manejo del sensor acelerómetro mpu6050 |
+| 10  | openHASP               | 0.7.0-rc4 | Reimplementación del boceto HASwitchPlate optimizado con LVGL |
+| 11  | Node-Red |   3.0.2 |Software Libre |
+| 12  | Raspberry-Pi |  Raspberry Pi 4 | Pequeño computador que corre un sistema operativo linux|
+
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |GCP001|Como invidente, quiero poder detectar obstáculos en mi camino mientras uso la gorra para evitar accidentes.|Debe|1 dia|Se puede probar colocando obstáculos en el camino del usuario y verificar si la gorra emite una señal de advertencia o vibra para alertar al usuario sobre la presencia del obstáculo.|Alexander |
 |GCP002|Como invidente, quiero poder ajustar el tamaño de la gorra para que se ajuste correctamente a mi cabeza.|Puede|1 dias|Se puede probar proporcionando diferentes tamaños de gorra y verificar si el usuario puede ajustarla correctamente para obtener un ajuste cómodo y seguro.|Alexander|
-|GCP003|Como invidente, quiero poder recibir información sobre la ubicación de objetos cercanos a mí mientras uso la gorra.|Puede|2 dias|Se puede probar colocando objetos a diferentes distancias del usuario y verificar si la gorra emite señales o vibraciones proporcionales a la proximidad de los objetos.|Alexander|
-|GCP004|Como invidente, quiero poder controlar la reproducción de música o audiolibros en mi teléfono móvil mediante comandos en la gorra.|Estaria Bien|2 dias|Se puede probar conectando la gorra al teléfono móvil y verificar si los comandos de reproducción (pausar, reproducir, siguiente pista, etc.) se ejecutan correctamente.|Andres|
-|GCP005|Como invidente, quiero recibir información sobre la temperatura y la humedad actual cada cierto tiempo mientras uso la gorra.|Debe|3 dias|Se puede probar conectando la gorra a una fuente de datos meteorológicos y verificar si la gorra proporciona información hablada o mediante vibraciones sobre el clima actual.|Andres|
-|GCP006|Como invidente, quiero que la gorra sea resistente al agua para poder usarla en diferentes condiciones climáticas.|Debe|1 dia| Se puede probar exponiendo la gorra a diferentes niveles de humedad o lluvia y verificar si sigue funcionando correctamente sin dañarse por la humedad.|Andres|
-|GCP007| Como invidente, quiero recibir alertas de humedad para saber si debo tomar precauciones adicionales en caso de lluvia o condiciones húmedas mientras uso la gorra.|Estaria Bien|3 dias|Se puede probar exponiendo la gorra a diferentes niveles de humedad y verificar si emite una alerta sonora cuando la humedad alcanza cierto umbral.|Manuel|
-|GCP008|Como invidente, quiero poder conocer mi ubicación actual a través de la gorra y visualizarla en una aplicación móvil para facilitar mi orientación.|Debe|4 dias|Se puede probar activando la función de localización en la gorra y verificar si la aplicación móvil muestra de manera precisa la ubicación actual del usuario.|Manuel|
-|GCP009|Como invidente, quiero recibir alertas en mi aolicacion cuando me alejo demasiado de un punto de referencia predefinido mientras uso la gorra para evitar perderme.|Puede|3 dias|Se puede probar estableciendo un punto de referencia en la aplicación y alejándose de él para verificar si la gorra emite una alarma sonora cuando el usuario se aleja más allá de un umbral predefinido.|Manuel|
-|GCP010|Como invidente, quiero recibir indicaciones de navegación paso a paso en la aplicación móvil para llegar a un destino específico mientras uso la gorra.|Estaria Bien|3 dias|Se puede probar ingresando un destino en la aplicación asociada a la gorra y verificar si proporciona indicaciones de navegación precisas y detalladas para guiar al usuario hacia el destino.|Jonathan|
-|GCP011|Como invidente, quiero poder ajustar la sensibilidad del sensor de distancia en la gorra para adaptarlo a mis necesidades y entorno.|Puede|2 dias|Se puede probar ajustando la sensibilidad del sensor de distancia en la gorra y verificar si las alarmas se activan adecuadamente cuando el usuario se acerca a objetos o paredes.|Jonathan|
-|GCP012|Como invidente, quiero poder compartir mi ubicación actual con familiares o amigos a través de la aplicación móvil para mayor seguridad mientras uso la gorra.|Estaria Bien|3 dias|Se puede probar activando la función de compartir ubicación en la aplicación asociada a la gorra y verificar si permite compartir la ubicación actual del usuario con contactos predefinidos.|Jonathan|
-|GCP013|Como invidente, quiero poder ajustar el volumen de las alarmas en la gorra para adaptarlo a mis preferencias auditivas.|Puede|1 dia|Se puede probar ajustando el volumen de las alarmas en la gorra y verificar si el usuario puede escucharlas claramente sin que sean demasiado fuertes o suaves.|Samuel|
-|GCP014|Como invidente, quiero poder activar y desactivar las alarmas en la gorra según mis necesidades.|Estaria Bien|2 dias|Se puede probar activando y desactivando las alarmas en la gorra y verificar si se pueden controlar fácilmente desde la aplicación móvil.|Samuel|
-|GCP015|Como invidente, quiero poder silenciar temporalmente las alarmas en la gorra cuando sea necesario.|Estaria Bien|2 dias|Se puede probar activando una alarma en la gorra y luego verificar si el usuario puede silenciarla temporalmente sin desactivarla por completo.|Samuel|
+|GCP003|Como invidente, quiero poder recibir información sobre la ubicación de objetos cercanos a mí mientras uso la gorra.|Puede|2 dias|Se puede probar colocando objetos a diferentes distancias del usuario y verificar si la gorra emite señales o vibraciones proporcionales a la proximidad de los objetos.|Andres|
+|GCP004|Como invidente, quiero recibir información sobre la temperatura y la humedad actual cada cierto tiempo mientras uso la gorra.|Debe|3 dias|Se puede probar conectando la gorra a una fuente de datos meteorológicos y verificar si la gorra proporciona información hablada o mediante vibraciones sobre el clima actual.|Andres|
+|GCP005| Como invidente, quiero recibir alertas de humedad para saber si debo tomar precauciones adicionales en caso de lluvia o condiciones húmedas mientras uso la gorra.|Estaria Bien|3 dias|Se puede probar exponiendo la gorra a diferentes niveles de humedad y verificar si emite una alerta sonora cuando la humedad alcanza cierto umbral.|Jonathan|
+|GCP06|Como invidente, quiero poder ajustar la sensibilidad del sensor de distancia en la gorra para adaptarlo a mis necesidades y entorno.|Puede|2 dias|Se puede probar ajustando la sensibilidad del sensor de distancia en la gorra y verificar si las alarmas se activan adecuadamente cuando el usuario se acerca a objetos o paredes.|Jonathan|
+|GCP07|Como invidente, quiero poder ajustar el volumen de las alarmas en la gorra para adaptarlo a mis preferencias auditivas.|Puede|1 dia|Se puede probar ajustando el volumen de las alarmas en la gorra y verificar si el usuario puede escucharlas claramente sin que sean demasiado fuertes o suaves.|Samuel|
+|GCP08|Como invidente, quiero poder silenciar temporalmente las alarmas en la gorra cuando sea necesario.|Estaria Bien|2 dias|Se puede probar activando una alarma en la gorra y luego verificar si el usuario puede silenciarla temporalmente sin desactivarla por completo.|Samuel|
 
 
 
@@ -65,4 +68,25 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 
 ### Imagen del prototipo 3D
 <img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/48026299/fc6d6237-2116-4e25-a74a-f906672e2019" width="800" height="400"/>
+
+#Evidencia del Sprint 1
+##Implementacion de la base de datos Maria DB
+
+##Lecturas de en consola de la pantalla ESP32
+
+#Evidencia del Sprint 1
+
+##Diseño de la carcasa en MDF
+
+##Imagenes del Casco
+
+##Desplieqgue del Dashboard
+
+##Implementación de Sensores y Actuadores
+
+##Comunicación MQTT entre Dispositivos
+
+##Base de Datos
+
+##Carta del beneficiario
 
