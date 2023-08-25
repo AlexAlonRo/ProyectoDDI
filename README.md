@@ -69,24 +69,24 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 ### Imagen del prototipo 3D
 <img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/48026299/fc6d6237-2116-4e25-a74a-f906672e2019" width="800" height="400"/>
 
-#Evidencia del Sprint 1
-##Implementacion de la base de datos Maria DB
+# Evidencia del Sprint 1
+## Implementacion de la base de datos Maria DB
 
-##Lecturas de en consola de la pantalla ESP32
+## Lecturas de en consola de la pantalla ESP32
 
-#Evidencia del Sprint 1
+# Evidencia del Sprint 1
 
-##Diseño de la carcasa en MDF
+## Diseño de la carcasa en MDF
 
-##Imagenes del Casco
+## Imagenes del Casco
 
-##Desplieqgue del Dashboard
+## Desplieqgue del Dashboard
 
-##Implementación de Sensores y Actuadores
+## Implementación de Sensores y Actuadores
 
-##Comunicación MQTT entre Dispositivos
+## Comunicación MQTT entre Dispositivos
 
-##Base de Datos
+## Base de Datos
 
-##Carta del beneficiario
+## Carta del beneficiario
 
