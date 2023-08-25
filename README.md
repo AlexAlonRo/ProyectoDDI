@@ -75,7 +75,7 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 
 ## Lecturas de en consola de la pantalla ESP32
 
-# Evidencia del Sprint 1
+# Evidencia del Sprint 2
 
 ## Diseño de la carcasa en MDF
 
