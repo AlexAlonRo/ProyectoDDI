@@ -28,7 +28,6 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 | ID  | Software               | Versión | Tipo                                                 |
 |----|----------|---------|------|
 | 01  | Fritzing               | 0.9.3   | Diseño de circuitos (licencia libre)                |
-| 02  | Tinkerd Card           | N/A     | Diseño 3D, electrónica y codificación (licencia libre) |
 | 03  | Micro Python           | 3.11.3  | Lenguaje de programación (licencia libre)          |
 | 04  | Github                 | N/A     | Plataforma de alojamiento (licencia libre)          |
 | 05  | PySerial               | 3.4     | Librería para el sensor de pulso cardíaco (licencia libre) |
