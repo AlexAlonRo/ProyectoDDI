@@ -80,6 +80,11 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 ## Diseño de la carcasa en MDF
 
 ## Imagenes del Casco
+![WhatsApp Image 2023-08-27 at 6 34 13 PM](https://github.com/AlexAlonRo/ProyectoDDI/assets/97119823/bb8db373-a41e-4134-a393-944496df7e61)
+![WhatsApp Image 2023-08-27 at 6 34 14 PM](https://github.com/AlexAlonRo/ProyectoDDI/assets/97119823/17e03958-29a8-4c21-9836-50ed3a86972d)
+![WhatsApp Image 2023-08-27 at 6 34 13 PM](https://github.com/AlexAlonRo/ProyectoDDI/assets/97119823/7a05c831-b347-453a-aed2-7637d8389cfa)
+
+
 
 ## Desplieqgue del Dashboard
 
